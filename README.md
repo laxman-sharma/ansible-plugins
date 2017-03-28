@@ -22,7 +22,7 @@ callback_plugins=<CLONE_DIRECTORY>/ansible-plugins
 3. Execute playbook normally.
 
 
-Example Output:
+Example Output(Timer-module):
 ~~~~
 **********Summary Of Execution**********
 
