@@ -20,3 +20,23 @@ callback_plugins=<CLONE_DIRECTORY>/ansible-plugins
 ~~~~
 
 3. Execute playbook normally.
+
+
+Example Output(Timer-module):
+~~~~
+**********Summary Of Execution**********
+
+PLAYS
+***************************************
+Name:	localhost---------------------------------------------------------------------------------Execution Time:	0.31s
+
+	TASKS
+	*******************************
+	Name:	TASK: setup-----------------------------------------------------------Execution Time:	0.28s
+
+	Name:	TASK: debug message---------------------------------------------------Execution Time:	0.02s
+
+	*******************************
+
+***************************************
+~~~~
